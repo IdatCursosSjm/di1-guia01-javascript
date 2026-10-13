@@ -6,7 +6,7 @@ Aplicar `let`, `const`, tipos de datos, `typeof`, conversiones con `Number()` y 
 
 ## Cómo empezar
 1. Abre el enlace del repositorio plantilla compartido por el docente.
-2. Selecciona **Use this template → Create a new repository** (configura visibilidad privada si está disponible).
+2. Selecciona **Use this template → Create a new repository** (configura visibilidad público si está disponible).
 3. Abre tu repositorio en **Code → Codespaces → Create codespace on main** o clónalo en VS Code con Node.js instalado.
 4. En la carpeta `ejercicios`, completa cada archivo reemplazando `TODO` por tus instrucciones JavaScript; **no cambies nombres de archivos ni nombres de variables pedidos**.
 5. En la terminal ejecuta `npm test`. La primera ejecución, sin respuestas, debe mostrar pruebas fallidas: es normal.
